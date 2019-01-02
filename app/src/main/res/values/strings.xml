@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Paris Tour</string>
+    <string name="eventsFragment">Events Fragment</string>
+    <string name="festFragment">Festival Fragment</string>
+    <string name="attractFragment">Local Attraction Fragment</string>
+    <string name="restFragment">Restaurant Fragment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="events">Events</string>
+    <string name="local_attractions">Local Attractions</string>
+    <string name="festivals">Festivals</string>
+    <string name="restaurants">Restaurants</string>
+
+</resources>
